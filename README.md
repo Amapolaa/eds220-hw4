@@ -47,8 +47,8 @@ eds220-hwk4
 ├── hwk4-task2-false-color-Garcia.ipynb #Jypter notebook for the analysis
 ├── .gitignore                    
 │    data/                        
-|     ├── landsat8-2025-02-23-palisades-eaton.nc
-|     ├── Eaton_Perimeter_20250121
+│     ├── landsat8-2025-02-23-palisades-eaton.nc
+│     ├── Eaton_Perimeter_20250121
 │     └── Palisades_Perimieter_20250121         
 └── LICENSE
 ```
